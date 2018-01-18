@@ -3,7 +3,6 @@
 # gets working directory & fastq_ids
 # submits alignment job and variant calling job
 # assumes a queue and a parallel environment
-# allows alignment with 12 CPU cores
 
 BASEDIR=$(dirname $0)
 
